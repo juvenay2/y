@@ -1,4 +1,10 @@
 body {
     background-image:url(bc-img.jpg) ;
     color: blue;
+} 
+
+h1 {
+    font-family: 'Pattaya', sans-serif;
+    color: darkslategrey;
+    text-align:right;
 }

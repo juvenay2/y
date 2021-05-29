@@ -1,10 +1,17 @@
 body {
-    background-image:url(bc-img.jpg) ;
-    color: blue;
+    background-color: cadetblue;
+    color:brown;
 } 
 
 h1 {
     font-family: 'Pattaya', sans-serif;
-    color: darkslategrey;
-    text-align:right;
+    color: brown;
+    text-align:center;
+} 
+
+.margin {
+    margin-bottom: 20px;
 }
+   
+    
+

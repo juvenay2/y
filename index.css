@@ -10,14 +10,16 @@ body {
 .margin1 {
     margin-top: 20px;
 }
- 
-/* .btn-grey {
-    color: rgb(43, 42, 42);
-} */
 
-.btn-grey:hover {
-    color: rgb(236, 128, 33);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.card-color {
+    background-color: ;
+}
+
+.img-footer {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
 }
 
 #footer {
@@ -26,6 +28,7 @@ body {
     height: 150px;
     text-align: center;
     list-style:inside;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(63, 58, 58);
+    margin-top: 20px;
+    display: inline-block;
+    color: beige;
 } 

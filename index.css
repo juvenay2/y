@@ -12,7 +12,8 @@ body {
 }
 
 .card-color {
-    background-color: ;
+    background-color:transparent;
+    border: transparent;
 }
 
 .img-footer {
@@ -23,12 +24,6 @@ body {
 }
 
 #footer {
-    background-color: slategray;
-    width: 100%;
-    height: 150px;
-    text-align: center;
-    list-style:inside;
-    margin-top: 20px;
-    display: inline-block;
-    color: beige;
+    background-color: rgb(76, 133, 190);
+    
 } 
